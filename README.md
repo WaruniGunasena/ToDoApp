@@ -33,7 +33,7 @@ It's designed for simplicity and clarity, perfect as a front-end exercise or a s
 
 Here’s a look at the app in action:
 
-![App Screenshot](./Layouts/todo.png)  
+![App Screenshot](todo-app/src/Layouts/todo.png)  
 > *(Make sure you put your screenshot image under `screenshots/` folder or adjust the path accordingly.)*
 
 ## Getting Started
